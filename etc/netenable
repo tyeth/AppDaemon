@@ -12,3 +12,4 @@
 wlan0:  enable
 wlan1: enable
 eth0: enable
+eth1: enable
